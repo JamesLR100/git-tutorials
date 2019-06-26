@@ -3,4 +3,4 @@ git-tuts
 
 Added text
 
-Added search search results.
+Added search results from EC2 instance.
