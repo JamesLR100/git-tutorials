@@ -1,0 +1,10 @@
+/usr/libexec/postfix/chroot-update
+/usr/libexec/git-core/git-quiltimport
+/boot/grub2/i386-pc/cbtime.mod
+/boot/grub2/i386-pc/date.mod
+/boot/grub2/i386-pc/datehook.mod
+/boot/grub2/i386-pc/datetime.mod
+/boot/grub2/i386-pc/time.mod
+/opt/aws/bin/ec2-metadata
+/opt/aws/bin/cfn-get-metadata
+/opt/aws/apitools/cfn-init-1.4-31.amzn2/bin/cfn-get-metadata
